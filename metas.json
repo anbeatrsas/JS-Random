@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Tomar no mínimo 3 garrafinhas de água por dia.",
+    "checked": false
+  },
+  {
+    "value": "Ler livro simples em inglês todos os dias por pelo menos 15 minutos.",
+    "checked": false
+  },
+  {
+    "value": "Estudar JavaScript todos os dias com mínimo de 1 hora.",
+    "checked": false
+  }
+]
